@@ -6,6 +6,6 @@ xsi:schemaLocation="http://maven .apache.org/POM/4.0.0 http://maven.apache.org/x
 
 <groupId>com.example</groupId>
 
-<artifactId>devopslab4</artifactId>
+<artifactId>suryadevopslab4</artifactId>
 
 <version>1.0-SNAPSHOT</version> </project>
